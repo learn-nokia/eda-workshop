@@ -1,5 +1,9 @@
 # EDA Workshop 
 
+Nokia Event-Driven Automation (EDA) is a next-generation data center network automation platform designed to ensure reliable network operations, simplify the entire network management lifecycle, and adapt quickly to evolving demands—while achieving human error zero. EDA is a modern, Kubernetes-based platform that simplifies the data center network operations across all stages—from Day 0 design and Day 1 deployment to Day 2+ operations. It abstracts the complexity of multivendor environments, enabling real-time provisioning, live streaming telemetry, and integration with on-prem cloud platforms.
+
+Please contact [**Mohammad Zaman**](https://www.linkedin.com/in/mohammad-zaman-61496958), [**Amit Kumar**](https://www.linkedin.com/in/spiky27), [**Frank Cordova**](https://www.linkedin.com/in/frank-cordova-955998111/) if you have any questions.
+
 > Join the community on [discord](https://eda.dev/discord)
 
 ## Table of Contents
