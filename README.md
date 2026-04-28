@@ -22,7 +22,7 @@ Please contact [**Mark Prosser**](https://www.linkedin.com/in/mark-prosser/), [*
 
 The workshop will primarily focus on getting familiar with the key concepts in EDA. As such, we are not going to spend a lot of time diving deep into the inner workings of EDA. We hope that participating in this workshop will whet your appetite. Since EDA is free (as in :beer:) to try, you can easily spin up your own installation and get as wild as you want!
 
-**When you are ready to spin up your own playground... [Try EDA!](https://docs.eda.dev/getting-started/try-eda/)**
+**When you are ready to spin up your own playground... [Try EDA!](https://docs.eda.dev/25.12/getting-started/try-eda/)**
 
 We will be building our fabric and overlay on top of the base topology that is instantiated when you start the Try EDA! Playground, but you are encouraged to get as creative as your computer resources will allow 💻
 
